@@ -2,6 +2,7 @@
   "name": "BalanceSiaga - Aplikasi Pencatat Keuangan Cerdas",
   "short_name": "BalanceSiaga",
   "description": "Kelola keuangan Anda dengan mudah menggunakan AI OCR dan dashboard interaktif",
+  "id": "/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -21,6 +22,22 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }],
+    "screenshots": [
+    {
+      "src": "/screenshots/1.png",
+      "sizes": "720x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshots/2.png",
+      "sizes": "720x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshots/3.png",
+      "sizes": "720x1280",
+      "type": "image/png"
     }
   ]
 }
